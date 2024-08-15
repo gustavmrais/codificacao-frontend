@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+}
+.container-1{
+    text-align: center;
+    background-color: rgb(33, 211, 202);
+    border: 2px solid black
+    
+}
+
+.container-2{
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px solid  black
+    
+
+}
