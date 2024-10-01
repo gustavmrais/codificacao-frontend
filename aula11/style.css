@@ -1,0 +1,13 @@
+h1{
+    background-color: midnightblue;
+    display: block;
+    height: 100px;
+    width: 60px;
+}
+p{
+    background-color: aqua;
+}
+span{
+    background-color: blueviolet;
+    padding: 50PX;
+}

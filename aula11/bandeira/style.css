@@ -1,0 +1,89 @@
+.alagoas{
+    height: 400px;
+    display: flex;
+    
+}
+
+.alagoas-1{
+    width: 200px;
+    background-color: blue;
+    
+}
+
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.alagoas-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ .italia{
+    height: 400px;
+  
+    display: flex;
+ }
+
+
+ .italia-1{
+    width: 200px;
+    background-color: green;
+    
+ }
+ .italia-2{
+    width: 200px;
+    height: 400px;
+ }
+
+ .italia-3{
+    width: 200px;
+   height: 400px;
+    background-color: red;
+ }
+
+ .nigeria{
+    height: 400px;
+    display: flex;
+ }
+ .nigeria-1{
+    width: 200px;
+    background-color: green;
+ }
+ .nigeria-2{
+    width: 200px;
+    height: 400px;
+ }
+ .nigeria-3{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+ }
+ .alemanha{
+   width: 600px;
+   height: 200px;
+   flex-direction: column;
+ }
+ .alemanha-1{
+    width: 600px;
+    background-color: black;
+    height: 200px;
+ }
+ .alemanha-2{
+    
+ }
+
+
+ 
